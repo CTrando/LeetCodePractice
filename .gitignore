@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/intellij
 
 ### Intellij ###
@@ -50,3 +51,17 @@ fabric.properties
 # modules.xml
 # .idea/misc.xml 
 # *.ipr
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 6d7bedd0914ee1f42b968b90fb5f94b83a69d812
